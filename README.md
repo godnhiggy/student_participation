@@ -7,5 +7,8 @@ This project will need to be overhauled in the following ways if it is found fun
   3. section off class blocks for easier reading
   4. normalize the databse (allthough now I think it is fairly funcitonal)
   5. create admin query functionality to analyze student data
+    a. overall school average
+    b. students with no responses
+    c. students with very low responses
   6. list kids with no responses on front page
   7. create html of overall student data
